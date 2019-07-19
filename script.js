@@ -168,6 +168,8 @@ async function run() {
 
     console.log('Done Training');
 
+    testModel(model, data, tensorData);
+
 }
 
 document.addEventListener('DOMContentLoaded', run);
