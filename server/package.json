@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B3nko/t-1-ai.git"
+  },
+  "author": "Kyle Benko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B3nko/t-1-ai/issues"
+  },
+  "homepage": "https://github.com/B3nko/t-1-ai#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
